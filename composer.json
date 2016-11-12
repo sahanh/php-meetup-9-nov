@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nesbot/carbon": "^1.21",
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
